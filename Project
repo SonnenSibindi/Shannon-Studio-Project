@@ -1,0 +1,84 @@
+Smart Shannon: Empowering Communities with Real-Time River & Flood Insights
+Vision
+
+A connected, resilient Shannon River Basin where communities, researchers, and policymakers can monitor water quality, predict flooding, and take sustainable action in real time.
+
+Background
+
+The Shannon River Basin is vital to Ireland’s environment, communities, and economy, supporting millions of people, extensive agriculture, and rich biodiversity. Yet, climate change, pollution, and increasingly severe floods threaten its health.
+
+Traditional monitoring is slow and resource-intensive, leaving communities and authorities reactive rather than proactive. Smart Shannon envisions a data-driven, community-powered river system that delivers real-time insights and predictive intelligence.
+
+Problem Statement
+
+How might we develop a real-time, open, and community-powered system that continuously monitors river health and predicts flood events, empowering citizens and authorities to respond faster and more effectively?
+
+Key challenges:
+
+Real-time monitoring of water quality and river conditions
+
+Predicting flood events using AI and historical data
+
+Engaging communities in participatory science and reporting
+
+Expected Outcomes
+
+Technology & Innovation
+Potential use of drones and image recognition to assess water quality visually.
+Machine learning combined with low cost IoT sensors for water quality and flood levels
+to analyse trends and predict flooding and pollution.
+
+Community & Engagement
+
+Citizen science app for real-time reporting of observations
+
+Community workshops and hackathons to build local capacity
+
+Research & Policy
+
+Open datasets for future research, policy development, and environmental education
+
+Optional KPIs: Flood prediction accuracy, number of engaged community participants, volume of open data shared
+
+Scope
+
+Included:
+
+River and flood data collection (sensors, satellite, open datasets)
+
+Predictive analytics, mapping, and visualization
+
+Community engagement and open data-sharing tools
+
+Excluded:
+
+Large-scale engineering works or infrastructure changes
+
+Proprietary or closed-source solutions
+
+Difficulty:
+
+Intermediate to advanced. Requires a lot multidisciplinary collaboration across different fields (e.g Environmental science, IoT and hardware prototyping, Data analytics and AI, Design and community engagement)
+
+Resources
+
+Data: EPA Ireland, Met Éireann, Copernicus, local authority datasets
+Knowledge & Expertise: TUS RISE partners, environmental scientists, local councils
+Tools & Tech: Arduino/Raspberry Pi kits, GIS software, cloud dashboards
+Spaces & Community: Shannon Studio labs, hackathons, workshops
+Tensorflow and Pytorch(Executorch) IoT guides and kits: These are useful for prototyping and creating a machine learning system that is accurate and fast.
+
+Inspiration
+
+Safecast: Radiation and environmental monitoring by volunteers after disasters
+FixMyStreet / SeeClickFix: Community reporting platforms that can inspire flood or pollution reporting
+
+Thames21 (UK): Because it is a community-led water monitoring network.
+
+Smart Dublin: Provides a lot of open data for urban challenges.
+
+Copernicus Open Access Hub: Is very useful for satellite imagery used in environmental analysis.
+
+Global Water Watch: Combining AI and satellite data to track water changes
+
+Through Smart Shannon people may adapt these models to create a uniquely Irish, community-focused  river monitoring ecosystem to ensure the Shannon river is able to support our valuable industries for a long time.
